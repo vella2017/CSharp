@@ -1,0 +1,10 @@
+E:\project_vs2010\socketserver\socketserver\bin\Debug\socketserver.exe
+E:\project_vs2010\socketserver\socketserver\bin\Debug\socketserver.pdb
+E:\project_vs2010\socketserver\socketserver\obj\x86\Debug\socketserver.exe
+E:\project_vs2010\socketserver\socketserver\obj\x86\Debug\socketserver.pdb
+E:\project_vs2010\socketserver\socketserver\obj\x86\Debug\socketserver.csprojResolveAssemblyReference.cache
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socketserver\socketserver\obj\x86\Debug\socketserver.exe
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socketserver\socketserver\obj\x86\Debug\socketserver.pdb
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socketserver\socketserver\bin\Debug\socketserver.exe
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socketserver\socketserver\bin\Debug\socketserver.pdb
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socketserver\socketserver\obj\x86\Debug\socketserver.csprojResolveAssemblyReference.cache

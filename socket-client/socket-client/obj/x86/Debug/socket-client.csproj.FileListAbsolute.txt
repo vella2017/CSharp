@@ -1,0 +1,10 @@
+E:\project_vs2010\socket-client\socket-client\bin\Debug\socket-client.exe
+E:\project_vs2010\socket-client\socket-client\bin\Debug\socket-client.pdb
+E:\project_vs2010\socket-client\socket-client\obj\x86\Debug\socket-client.exe
+E:\project_vs2010\socket-client\socket-client\obj\x86\Debug\socket-client.pdb
+E:\project_vs2010\socket-client\socket-client\obj\x86\Debug\socket-client.csprojResolveAssemblyReference.cache
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socket-client\socket-client\obj\x86\Debug\socket-client.exe
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socket-client\socket-client\obj\x86\Debug\socket-client.pdb
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socket-client\socket-client\bin\Debug\socket-client.exe
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socket-client\socket-client\bin\Debug\socket-client.pdb
+E:\Program Files\Visual Studio 2013\Projects\C#\Lean Projects\socket\socket-client\socket-client\obj\x86\Debug\socket-client.csprojResolveAssemblyReference.cache
